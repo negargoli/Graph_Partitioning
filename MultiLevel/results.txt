@@ -1,0 +1,21 @@
+./ass2_files/apex1.txt
+terminating execution, initial cost:  491  final cost:  198
+./ass2_files/apex4.txt
+terminating execution, initial cost:  836  final cost:  280
+./ass2_files/C880.txt
+terminating execution, initial cost:  151  final cost:  50
+./ass2_files/cm138a.txt
+terminating execution, initial cost:  6  final cost:  4
+./ass2_files/cm150a.txt
+terminating execution, initial cost:  20  final cost:  7
+./ass2_files/cm151a.txt
+terminating execution, initial cost:  8  final cost:  5
+./ass2_files/cm162a.txt
+terminating execution, initial cost:  21  final cost:  6
+./ass2_files/cps.txt
+terminating execution, initial cost:  434  final cost:  149
+./ass2_files/e64.txt
+terminating execution, initial cost:  203  final cost:  78
+./ass2_files/paira.txt
+terminating execution, initial cost:  605  final cost:  167
+./ass2_files/pairb.txt
