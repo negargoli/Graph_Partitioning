@@ -1,5 +1,9 @@
 # Graph_Partitioning
 ![alt text](https://github.com/negargoli/Graph_Partitioning/blob/master/Project%20.jpg)
+
+
+
+
 In this project we have surveyed and implemented some of the most commonly used graph partitioning algorithm. It has an important application in the layout of digital circuits component in VLSI i.e. partitioning a circuit/system into smaller subsystems called block for proper layout of the component. The partitioning speeds up the design process and blocks can be design independently and simultaneously speeding up the overall design process. It is a combinatorial problem i.e. given a graph G with costs on its edges, partition the nodes of G into subsets no longer than a given maximum size, so as to minimize the total cost of the edges cut. Since graph partitioning methods is NP-hard problems, there are many heuristic and approximate algorithms presents in the literature for graph partitioning and can be broadly classified into three categories 
 	Local Method
 	Global Method
